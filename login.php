@@ -9,15 +9,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
 
-
-    <nav class="navbar navbar-light bg-light">
-  <div style="text-align: right;">
-    <a class="navbar-brand" href="#">Default</a>
-    <a class="navbar-brand" href="#">Default</a>
-    <a class="navbar-brand" href="#">Default</a>
-  </div>
-</nav>
-
 </head>
 
 <body>
